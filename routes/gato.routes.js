@@ -5,4 +5,5 @@ const router = express.Router();
 
 router.post("/gato", registrarGato);
 
+
 export default router;
